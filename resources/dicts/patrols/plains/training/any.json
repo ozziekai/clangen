@@ -359,7 +359,8 @@
     "success_text": [
             "app1 has their view blocked by the long grass and flat ground. But the rumble they feel through their pawpads, the footsteps, the bellows so loud they can be felt through the ground, it all stresses just how huge the thunderbeasts are.",
             "The rumble app1 feels through the ground confuses them, until p_l tells them that it's footsteps. Footsteps. Awed, the apprentice creeps forward to catch a glimpse of the bison, pelt standing on end.",
-            "As the herd moves slowly and invisibly around them in the grass, felt only by the thump-thud of their hoofsteps, s_c brings app1 in close and tells them the story of how the great thunderbeasts protect the plains, channeling thunder in their horns and earthquakes in their hooves, so that neither may come to hurt c_n while they are near."
+            "As the herd moves slowly and invisibly around them in the grass, felt only by the thump-thud of their hoofsteps, s_c brings app1 in close and tells them the story of how the great thunderbeasts protect the plains, channeling thunder in their horns and earthquakes in their hooves, so that neither may come to hurt c_n while they are near.",
+            null
     ],
     "fail_text": [
             "app1 refuses to believe that bison could possibly be so huge. They also refuse to get any closer to them, and start an argument with p_l about it.",
@@ -383,7 +384,8 @@
     "success_text": [
             "app1 has their view blocked by the long grass and flat ground. But the rumble they feel through their pawpads, the footsteps, the bellows so loud they can be felt through the ground, it all stresses just how huge the thunderbeasts are.",
             "The rumble app1 feels through the ground confuses them, until p_l tells them that it's footsteps. Footsteps. Awed, the apprentice creeps forward to catch a glimpse of the bison, pelt standing on end.",
-            "s_c points out the danger of the huge, ground shaking creatures. A bison has never come after a cat, but if a cat puts itself in their way, there's no coming back from that mistake. The thunderbeasts wander slowly around the cats, while s_c teaches and app1 tries to look brave."
+            "s_c points out the danger of the huge, ground shaking creatures. A bison has never come after a cat, but if a cat puts itself in their way, there's no coming back from that mistake. The thunderbeasts wander slowly around the cats, while s_c teaches and app1 tries to look brave.",
+            null
     ],
     "fail_text": [
             "app1 refuses to believe that bison could possibly be so huge. They also refuse to get any closer to them, and start an argument with p_l about it.",
@@ -407,7 +409,8 @@
     "success_text": [
             "app1 has their view blocked by the long grass and flat ground. But the rumble they feel through their pawpads, the footsteps, the bellows so loud they can be felt through the ground, it all stresses just how huge the thunderbeasts are, and they share a wide eyed look with app2.",
             "The rumble app1 feels through the ground confuses them, until p_l tells them that it's footsteps. Footsteps. Awed, the apprentices creep forward to catch a glimpse of the bison, app1's pelt brushing up against app2's as both their fur stands on end and they huddle together.",
-            "As the herd moves slowly and invisibly around them in the grass, felt only by the thump-thud of their hoofsteps, s_c brings app1 and app2 in close and tells them the story of how the great thunderbeasts protect the plains, channeling thunder in their horns and earthquakes in their hooves, so that neither may come to hurt c_n while they are near."
+            "As the herd moves slowly and invisibly around them in the grass, felt only by the thump-thud of their hoofsteps, s_c brings app1 and app2 in close and tells them the story of how the great thunderbeasts protect the plains, channeling thunder in their horns and earthquakes in their hooves, so that neither may come to hurt c_n while they are near.",
+            null
     ],
     "fail_text": [
             "app1 refuses to believe that bison could possibly be so huge. They also refuse to get any closer to them, and start an argument with p_l about it. app2 sides with p_l and no one learns anything in the squabbling.",
@@ -431,7 +434,8 @@
     "success_text": [
             "app1 has their view blocked by the long grass and flat ground. But the rumble they feel through their pawpads, the footsteps, the bellows so loud they can be felt through the ground, it all stresses just how huge the thunderbeasts are, and they share a wide eyed look with app2.",
             "The rumble app1 feels through the ground confuses them, until p_l tells them that it's footsteps. Footsteps. Awed, the apprentices creep forward to catch a glimpse of the bison, app1's pelt brushing up against app2's as both their fur stands on end and they huddle together.",
-            "s_c points out the danger of the huge, ground shaking creatures. A bison has never come after a cat, but if a cat puts itself in their way, there's no coming back from that mistake. The thunderbeasts wander slowly around the cats, while s_c teaches and app1 tries to look brave for app2, who looks like they want to sink into the grass and disappear."
+            "s_c points out the danger of the huge, ground shaking creatures. A bison has never come after a cat, but if a cat puts itself in their way, there's no coming back from that mistake. The thunderbeasts wander slowly around the cats, while s_c teaches and app1 tries to look brave for app2, who looks like they want to sink into the grass and disappear.",
+            null
     ],
     "fail_text": [
             "app1 refuses to believe that bison could possibly be so huge. They also refuse to get any closer to them, and start an argument with p_l about it. app2 sides with p_l and no one learns anything in the squabbling.",
@@ -455,7 +459,8 @@
     "success_text": [
         "app1 carefully practices padding around, in the pitch black, in the dim where the light from the entrance still reaches, with their eyes shut, all of it. It's definitely easier in bigger burrows than the ones rabbits make, and it's good to train where no one can see them faceplant into the walls.",
         "p_l reassures app1 that this sett is well known and safe. But with a little mischief in their expression, p_l suggests being careful where they set their paws. app1 discovers what that means when they're wandering around in the dark and slide head over heels down a steep slope. Maybe that'd be fun to do again?",
-        "app1 asks s_c why they learn all this. Once, their Clan starved through a leaf-bare, grass all dead, cats chewing on snow just to have something in their bellies. The only cat able to hunt was an overlooked warrior, lithe, small, and blind. For her the tunnels opened like a flower full of prey. She was their savior, they must never forget."
+        "app1 asks s_c why they learn all this. Once, their Clan starved through a leaf-bare, grass all dead, cats chewing on snow just to have something in their bellies. The only cat able to hunt was an overlooked warrior, lithe, small, and blind. For her the tunnels opened like a flower full of prey. She was their savior, they must never forget.",
+        null
     ],
     "fail_text": [
         "app1 refuses to believe tunnels could possibly be hard to navigate. They also refuse to get any closer to them, and start an argument with p_l about it.",
@@ -479,7 +484,8 @@
     "success_text": [
             "app1 carefully practices padding around, in the pitch black, in the dim where the light from the entrance still reaches, with their eyes shut, all of it. It's definitely easier in bigger burrows than the ones rabbits make, and it's good to train where no one can see them faceplant into the walls.",
             "p_l reassures app1 that this sett is well known and safe. But with a little mischief in their expression, p_l suggests being careful where they set their paws. app1 discovers what that means when they're wandering around in the dark and slide head over heels down a steep slope. Maybe that'd be fun to do again?",
-            "s_c brings app1 over, pointing out all the aspects that makes this sett safe to practice in, the compacted earth, the strong walls, the dry soil - but not too dry. If app1 can master these signs on the safe sett, unknown tunnels out on the plains will be far safer for them to approach."
+            "s_c brings app1 over, pointing out all the aspects that makes this sett safe to practice in, the compacted earth, the strong walls, the dry soil - but not too dry. If app1 can master these signs on the safe sett, unknown tunnels out on the plains will be far safer for them to approach.",
+            null
     ],
     "fail_text": [
             "app1 refuses to believe tunnels could possibly be hard to navigate. They also refuse to get any closer to them, and start an argument with p_l about it.",
@@ -503,7 +509,8 @@
     "success_text": [
             "app1 carefully practices padding around, in the pitch black, in the dim where the light from the entrance still reaches, with their eyes shut, all of it. It's definitely easier in bigger burrows than the ones rabbits make, and it's good to train where no one can see them faceplant into the walls. app2 does notice when app1 faceplants into them though!",
             "p_l reassures app1 that this sett is well known and safe. But with a little mischief in their expression, p_l suggests being careful where they set their paws. app1 discovers what that means when they're wandering around in the dark and slide head over heels down a steep slope, straight into app2 with an oof! Maybe that'd be fun to do again?",
-            "s_c gathers app1 and app2. Once, their Clan starved through a leaf-bare, grass all dead, cats chewing on snow just to have something in their bellies. The only cat able to hunt was an overlooked warrior, lithe, small, and blind. For her the tunnels opened like a flower full of prey. She was their savior, they must never forget."
+            "s_c gathers app1 and app2. Once, their Clan starved through a leaf-bare, grass all dead, cats chewing on snow just to have something in their bellies. The only cat able to hunt was an overlooked warrior, lithe, small, and blind. For her the tunnels opened like a flower full of prey. She was their savior, they must never forget.",
+            null
     ],
     "fail_text": [
             "app1 refuses to believe tunnels could possibly be hard to navigate. They also refuse to get any closer to them, and start an argument with p_l about it. app2 sides with p_l and no one learns anything in the squabbling.",
@@ -528,7 +535,8 @@
     "success_text": [
             "app1 carefully practices padding around, in the pitch black, in the dim where the light from the entrance still reaches, with their eyes shut, all of it. It's definitely easier in bigger burrows than the ones rabbits make, and it's good to train where no one can see them faceplant into the walls. app2 does notice when app1 faceplants into them though!",
             "p_l reassures app1 that this sett is well known and safe. But with a little mischief in their expression, p_l suggests being careful where they set their paws. app1 discovers what that means when they're wandering around in the dark and slide head over heels down a steep slope, straight into app2 with an oof! Maybe that'd be fun to do again?",
-            "s_c brings app1 and app2 over, pointing out all the aspects that makes this sett safe to practice in, the compacted earth, the strong walls, the dry soil - but not too dry. If the apprentices can master these signs on the safe sett, unknown tunnels out on the plains will be far safer for them to approach."
+            "s_c brings app1 and app2 over, pointing out all the aspects that makes this sett safe to practice in, the compacted earth, the strong walls, the dry soil - but not too dry. If the apprentices can master these signs on the safe sett, unknown tunnels out on the plains will be far safer for them to approach.",
+            null
     ],
     "fail_text": [
             "app1 refuses to believe tunnels could possibly be hard to navigate. They also refuse to get any closer to them, and start an argument with p_l about it. app2 sides with p_l and no one learns anything in the squabbling.",
