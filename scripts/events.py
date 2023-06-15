@@ -1020,24 +1020,24 @@ class Events:
                         text = str(game.clan.deputy.name.prefix) + str(
                             game.clan.deputy.name.suffix) + \
                                ' has been promoted to the new leader of the Clan. ' \
-                               'They travel immediately to the Moonstone to get their ' \
-                               'nine lives and are hailed by their new name, ' + \
+                               '{PRONOUN/game.clan.deputy/subject/CAP} {VERB/game.clan.deputy/travel/travels} immediately to the Moonstone to get {PRONOUN/m_c/poss} ' \
+                               'nine lives and are hailed by {PRONOUN/game.clan.deputy/poss} new name, ' + \
                                str(game.clan.deputy.name) + '.'
                     elif c == 2:
                         text = f'{game.clan.deputy.name} has become the new leader of the Clan. ' \
-                               f'They vow that they will protect the Clan, ' \
-                               f'even at the cost of their nine lives.'
+                               f'{PRONOUN/game.clan.deputy/subject/CAP} vow that {PRONOUN/game.clan.deputy/subject/CAP} will protect the Clan, ' \
+                               f'even at the cost of {PRONOUN/game.clan.deputy/poss} nine lives.'
                     elif c == 3:
                         text = f'{game.clan.deputy.name} has received ' \
-                               f'their nine lives and became the ' \
-                               f'new leader of the Clan. They feel like ' \
-                               f'they are not ready for this new ' \
-                               f'responsibility, but will try their best ' \
+                               f'{PRONOUN/game.clan.deputy/poss} nine lives and became the ' \
+                               f'new leader of the Clan. {PRONOUN/game.clan.deputy/subject/CAP} {VERB/game.clan.deputy/feel/feels} like ' \
+                               f'{PRONOUN/game.clan.deputy/subject/CAP}{VERB/game.clan.deputy/'re/'s} not ready for this new ' \
+                               f'responsibility, but will try {PRONOUN/game.clan.deputy/poss} best ' \
                                f'to do what is right for the Clan.'
 
                 # game.ceremony_events_list.append(text)
                 text += f"\nVisit {game.clan.deputy.name}'s " \
-                        "profile to see their full leader ceremony."
+                        "profile to see {PRONOUN/game.clan.deputy/poss} full leader ceremony."
 
                 game.cur_events_list.append(
                     Single_Event(text, "ceremony", game.clan.deputy.ID))
@@ -2076,9 +2076,9 @@ class Events:
                         else:
                             if game.clan.deputy:
                                 previous_deputy_mention = random.choice([
-                                    f"They know that {game.clan.deputy.name} would approve.",
-                                    f"They hope that {game.clan.deputy.name} would approve.",
-                                    f"They don't know if {game.clan.deputy.name} would approve, "
+                                    f"{PRONOUN/game.clan.leader/subject/CAP} know that {game.clan.deputy.name} would approve.",
+                                    f"{PRONOUN/game.clan.leader/subject/CAP} hope that {game.clan.deputy.name} would approve.",
+                                    f"{PRONOUN/game.clan.leader/subject/CAP} don't know if {game.clan.deputy.name} would approve, "
                                     f"but life must go on. "
                                 ])
                                 involved_cats.append(game.clan.deputy.ID)
@@ -2109,15 +2109,15 @@ class Events:
                             f"{random_cat.name} has been chosen as the new deputy. "  # pylint: disable=line-too-long
                             f"They hold their head up high and promise to do their best for the Clan.",
                             # pylint: disable=line-too-long
-                            f"{game.clan.leader.name} has been thinking deeply all day who they would "  # pylint: disable=line-too-long
-                            f"respect and trust enough to stand at their side, and at sunhigh makes the "  # pylint: disable=line-too-long
+                            f"{game.clan.leader.name} has been thinking deeply all day who {PRONOUN/m_c/game.clan.leader/CAP} would "  # pylint: disable=line-too-long
+                            f"respect and trust enough to stand at {PRONOUN/game.clan.leader/poss} side, and at sunhigh makes the "  # pylint: disable=line-too-long
                             f"announcement that {random_cat.name} will be the Clan's new deputy.",
                             # pylint: disable=line-too-long
                             f"{random_cat.name} has been chosen as the new deputy. They pray to "  # pylint: disable=line-too-long
                             f"StarClan that they are the right choice for the Clan.",  # pylint: disable=line-too-long
                             f"{random_cat.name} has been chosen as the new deputy. Although"  # pylint: disable=line-too-long
                             f"they are nervous, they put on a brave front and look forward to serving"  # pylint: disable=line-too-long
-                            f"the clan.",
+                            f"the Clan.",
                         ]
                         # No additional involved cats
                         text = random.choice(possible_events)
